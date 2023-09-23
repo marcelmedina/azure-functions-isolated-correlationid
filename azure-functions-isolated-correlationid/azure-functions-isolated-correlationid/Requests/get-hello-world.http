@@ -1,0 +1,2 @@
+GET http://localhost:7071/api/HttpTriggerHelloWorld
+x-correlationId: 00000000-0000-0000-0000-000000000000

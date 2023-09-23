@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_functions_isolated_correlationid": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7245",
+      "launchBrowser": false
+    }
+  }
+}
